@@ -10,4 +10,5 @@ A comprehensive data pipeline has been established to filter Twitter data based 
 5. Apache Spark Installation
 6. Access to MongoDB Atlas
    
-<img width="691" alt="image" src="https://github.com/PadhmaCebolu/Beyond-the-Hashtag-Big-Data-Pipeline-for-Twitter-Trends/assets/150218157/bcbdaf81-c770-4734-ba4b-d4892011e28c">
+
+<img width="956" alt="image" src="https://github.com/PadhmaCebolu/Beyond-the-Hashtag-Big-Data-Pipeline-for-Twitter-Trends/assets/150218157/37ae46ea-32c0-4f7c-a06a-eb11777d14a3">
